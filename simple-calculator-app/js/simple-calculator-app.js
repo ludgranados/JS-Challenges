@@ -15,7 +15,7 @@
 
 
 
-// simple calculator
+/** Simple Calculator */ 
 
 
 function calc () {
@@ -94,7 +94,3 @@ else if (question == 'no') {
 
 // calc();
 
-
-/** Styles */
-
-document.getElementById(col).style.marginLeft= "50%";
